@@ -1,6 +1,9 @@
 
 #### I'm Bryce, current Turing student who just graduate from Texas Tech University!
 
+![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brycemara&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brycemara&layout=compact)
+
 - 🔭  I’m currently working on becoming a Front End software developer at Turing School of Software.
 
 - 🌱  I’m currently learning React, Node.js, JavaScript & much more!
