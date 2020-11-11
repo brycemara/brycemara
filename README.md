@@ -1,5 +1,5 @@
 
-#### I'm Bryce, current Turing student who just graduate from Texas Tech University!
+### I'm Bryce, current Turing student who just graduate from Texas Tech University!
 
 ![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brycemara&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brycemara&layout=compact)
