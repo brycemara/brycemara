@@ -6,7 +6,7 @@
 
 - 🔭  I’m currently working on becoming a Front End software developer at Turing School of Software.
 
-- 🌱  I’m currently learning React, Node.js, JavaScript & much more!
+- 🌱  I’m currently learning React, Ecosystem testing, JavaScript & much more!
 
 - 💬  Ask me about why I believe the human race needs to look for a new planet 🪐
     - I love Sci-Fi novels & all things Space travel related.
