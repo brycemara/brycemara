@@ -1,5 +1,20 @@
 
-### I'm Bryce, current Turing student who just graduate from Texas Tech University!
+## I'm Bryce, current Turing student who just graduate from Texas Tech University!
+
+<div align="center">
+  <a href="https://github.com/brycemara/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=brycemara&show_icons=true&theme=tokyonight" height="200" width="500"/>
+  </a>
+  <a href="https://github.com/brycemara/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brycemara&theme=tokyonight" height="200" width="300"/>
+  </a>
+  <a href="https://github.com/brycemara/overlook">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brycemara&repo=overlook&theme=tokyonight" height="200" width="400"/>
+  </a>
+  <a href="https://github.com/brycemara/whats-cookin">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brycemara&repo=whats-cookin&theme=tokyonight" height="200" width="400"/>
+  </a>
+</div>
 
 ![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brycemara&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brycemara&layout=compact)
