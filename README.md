@@ -1,5 +1,6 @@
+# Bryce Mara Jarrett
 
-## I'm Bryce, current Turing student who just graduate from Texas Tech University!
+
 
 <div align="center">
   <a href="https://github.com/brycemara/github-readme-stats">
@@ -19,7 +20,7 @@
 
 - 🔭  I’m currently working on becoming a Front End software developer at Turing School of Software.
 
-- 🌱  I’m currently learning React, Ecosystem testing, JavaScript & much more!
+- 🌱  I’m currently learning React, Redux & much more!
 
 - 💬  Ask me about why I believe the human race needs to look for a new planet 🪐
     - I love Sci-Fi novels & all things Space travel related.
@@ -32,6 +33,9 @@
     - Enjoy travel & the great outdoors
     - Run 🏃‍♀️
     
-- 📫  How to reach me: 
-    - brycej98@gmail.com 
-    - [LinkedIn](https://www.linkedin.com/in/bryce-jarrett/)
+    <div align="center">
+  <a href="https://www.linkedin.com/in/bryce-jarrett-496496171/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
+  <a href="https://www.codewars.com/users/brycemara"><img alt="codewars" src="https://img.shields.io/badge/-Codewars-b1361e.svg?style=for-the-badge&logo=codewars&colorB=b1361e" /></a>
+  <a href="mailto:brycej98@gmail.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
+</div>
+    
