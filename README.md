@@ -22,8 +22,9 @@
 
 - 🌱  I’m currently learning React, Redux & much more!
 
-- 💬  Ask me about why I believe the human race needs to look for a new planet 🪐
+- 💬  Ask me about why I believe the human race needs to look for a new planet & why crypto is the wave of the future 🪐💸
     - I love Sci-Fi novels & all things Space travel related.
+    - Yes, I have a bitcoin.
 
 - 😄  Pronouns: she/her
 
