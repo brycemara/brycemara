@@ -20,9 +20,9 @@
 
 - 🔭  I’m currently working on becoming a Front End software developer at Turing School of Software.
 
-- 🌱  I’m currently learning React, Redux & much more!
+- 🌱  I’m currently learning React, Typescript & much more!
 
-- 💬  Ask me about why I believe the human race needs to look for a new planet & why crypto is the wave of the future 🪐💸
+- 💬  Ask me about SPACE & why crypto is the wave of the future 🪐💸
     - I love Sci-Fi novels & all things Space travel related.
     - Yes, I have a bitcoin.
 
@@ -33,6 +33,7 @@
     - Drink lots of coffee
     - Enjoy travel & the great outdoors
     - Run 🏃‍♀️
+    - Snowboard 
     
     <div align="center">
   <a href="https://www.linkedin.com/in/bryce-jarrett-496496171/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
