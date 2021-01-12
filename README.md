@@ -9,8 +9,8 @@
   <a href="https://github.com/brycemara/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brycemara&theme=tokyonight" height="200" width="300"/>
   </a>
-  <a href="https://github.com/brycemara/overlook">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brycemara&repo=overlook&theme=tokyonight" height="200" width="400"/>
+  <a href="https://github.com/mdflynn/game-sleuth">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdflynn&repo=game-sleuth&theme=tokyonight" height="200" width="400"/>
   </a>
   <a href="https://github.com/brycemara/taco-bout-it">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brycemara&repo=taco-bout-it&theme=tokyonight" height="200" width="400"/>
