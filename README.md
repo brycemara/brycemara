@@ -12,7 +12,7 @@
   <a href="https://github.com/brycemara/overlook">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brycemara&repo=overlook&theme=tokyonight" height="200" width="400"/>
   </a>
-  <a href="https://github.com/brycemara/whats-cookin">
+  <a href="https://github.com/mdflynn/game-sleuth">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?https://github.com/mdflynn/game-sleuth&theme=tokyonight" height="200" width="400"/>
   </a>
 </div>
