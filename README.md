@@ -13,7 +13,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brycemara&repo=overlook&theme=tokyonight" height="200" width="400"/>
   </a>
   <a href="https://github.com/brycemara/taco-bout-it">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?https://github.com/brycemara/taco-bout-it&theme=tokyonight" height="200" width="400"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brycemara&repo=taco-bout-it&theme=tokyonight" height="200" width="400"/>
   </a>
 </div>
 
