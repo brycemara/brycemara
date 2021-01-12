@@ -13,7 +13,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brycemara&repo=overlook&theme=tokyonight" height="200" width="400"/>
   </a>
   <a href="https://github.com/brycemara/whats-cookin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brycemara&repo=rancid-tomatillos&theme=tokyonight" height="200" width="400"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?https://github.com/mdflynn/game-sleuth&theme=tokyonight" height="200" width="400"/>
   </a>
 </div>
 
