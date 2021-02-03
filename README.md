@@ -18,13 +18,14 @@
 </div>
 
 
-- 🔭  I’m currently working on becoming a Front End software developer at Turing School of Software.
+- 🔭  I’m currently working on becoming a Front End software developer at Turing School of Software. My degree is from Texas Tech (WRECK EM) in Industrial Eningeering. 
 
-- 🌱  I’m currently learning React, Typescript & much more!
+- 🌱  I’m currently learning Redux, Typescript & much more!
 
-- 💬  Ask me about SPACE & why crypto is the wave of the future 🪐💸
+- 💬  Ask me about SPACE & why cryptocurrency is the wave of the future 🪐💸
     - I love Sci-Fi novels & all things Space travel related.
-    - Yes, I have a bitcoin.
+    - I asked for a bitcoin for my graduation present.
+    - Blockchain is the coolest technology ever. 
 
 - 😄  Pronouns: she/her
 
