@@ -18,7 +18,7 @@
 </div>
 
 
-- 🔭  I’m currently working on becoming a Front End software developer at Turing School of Software and Design. My degree is from Texas Tech (WRECK EM) in Industrial Eningeering. 
+- 🔭  I’m currently working on becoming a Front End software developer at Turing School of Software and Design. My degree is from Texas Tech (WRECK EM) in Industrial Engineering. 
 
 - 🌱  I’m currently learning Redux, Typescript & much more!
 
