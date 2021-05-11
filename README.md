@@ -18,9 +18,9 @@
 </div>
 
 
-- 🔭  I’m currently working on becoming a Front End software developer at Turing School of Software and Design. My degree is from Texas Tech (WRECK EM) in Industrial Engineering. 
+- 🔭  I’m currently working as a Software Engineering Apprentice at McKinsey and Company.
 
-- 🌱  I’m currently learning Redux, Typescript & much more!
+- 🌱  I’m currently learning Angular & much more! 
 
 - 💬  Ask me about SPACE & why cryptocurrency is the wave of the future 🪐💸
     - I love Sci-Fi novels & all things Space travel related.
