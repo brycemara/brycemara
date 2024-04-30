@@ -18,16 +18,7 @@
 </div>
 
 
-- 🔭  I’m currently working as a Software Engineering Apprentice at McKinsey and Company.
-
-- 🌱  I’m currently learning Angular & much more! 
-
-- 💬  Ask me about SPACE & why cryptocurrency is the wave of the future 🪐💸
-    - I love Sci-Fi novels & all things Space travel related.
-    - I asked for a bitcoin for my graduation present.
-    - Blockchain is the coolest technology ever. 
-
-- 😄  Pronouns: she/her
+- 🔭  I’m currently working as a Software Engineer at McKinsey and Company.
 
 - ⚡ What I do:
     - Read all kinds of books
